@@ -16,6 +16,7 @@ let flyttet = 0;
 let img;
 let billede = [];
 let billeder = random(billede); 
+let b = "";
 
 
 function preload(){
